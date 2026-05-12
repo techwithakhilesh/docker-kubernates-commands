@@ -1,8 +1,8 @@
-# 🚀 Docker & Kubernetes Daily Activity Commands Cheat Sheet
+#  Docker & Kubernetes Daily Activity Commands Cheat Sheet
 
 ---
 
-# 📦 Docker Commands
+#  Docker Commands
 
 # 1. Docker Information Commands
 
@@ -494,7 +494,7 @@ kubectl get pods -w
 
 ---
 
-# 🔥 Most Frequently Asked Interview Commands
+#  Most Frequently Asked Interview Commands
 
 # Docker Interview Commands
 
@@ -579,7 +579,7 @@ kubectl get nodes -o wide
 
 ---
 
-# 🚨 Most Common Kubernetes Errors
+#  Most Common Kubernetes Errors
 
 | Error | Reason |
 |---|---|
@@ -628,7 +628,7 @@ Users
 
 ---
 
-# 📚 Important DevOps Concepts
+#  Important DevOps Concepts
 
 | Tool | Purpose |
 |---|---|
@@ -643,7 +643,7 @@ Users
 
 ---
 
-# ⭐ Most Important Commands to Remember
+#  Most Important Commands to Remember
 
 ```bash
 docker ps
