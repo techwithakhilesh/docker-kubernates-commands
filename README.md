@@ -285,6 +285,10 @@ kubectl delete namespace dev
 
 # 3. Pod Commands
 
+## Create Nginx Pod
+```bash
+kubectl run nginx --image=nginx
+```
 ## List Pods
 ```bash
 kubectl get pods
